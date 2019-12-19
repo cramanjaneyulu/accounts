@@ -21,13 +21,13 @@
 		"name": "AAA",
 		"accId": "1812",
 		"cash": "2010926.10",
-		changePercentage": "+0.21%",
+		"changePercentage": "+0.21%",
                 "todaysChangePrice": "$38,881.63"
 	}, {
 		"name": "IRA",
 		"accId": "0146",
 		"cash": "15884302.39",
-		changePercentage": "+0.03%",
+		"changePercentage": "+0.03%",
                 "todaysChangePrice": "$7,430.83"
 	}, {
 		"name": "AAA",
