@@ -1,12 +1,12 @@
 {
-	"departments": [{
-		"name": "Women",
-		"url": "/women"
+	"accounts": [{
+		"name": "IRA",
+		"accId": "5200"
 	}, {
-		"name": "Men",
-		"url": "/men"
+		"name": "AAA",
+		"accId": "3810"
 	}, {
-		"name": "Kids",
-		"url": "/kids"
+		"name": "REG",
+		"accId": "2019"
 	}]
 }
