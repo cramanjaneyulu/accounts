@@ -2,17 +2,17 @@
 	"accounts": [{
 		"name": "IRA",
 		"accId": "5200",
-		"cash":"$5,763.36",
-                "todaysChange":"-0.08% / $8,916.69"
+		"cash": "$5,763.36",
+                "todaysChange": "-0.08% / $8,916.69"
 	}, {
 		"name": "AAA",
 		"accId": "3810",		
-  		"cash":"$10,050,054.07",
-  		"todaysChange":"+0.08% / $8,916.69"
+  		"cash": "$10,050,054.07",
+  		"todaysChange": "+0.08% / $8,916.69"
 	}, {
 		"name": "REG",
 		"accId": "2019",
-		"cash":"$2,010,926.10",
-  		"todaysChange":"0.00%/ $0.00"
+		"cash": "$2,010,926.10",
+  		"todaysChange": "0.00%/ $0.00"
 	}]
 }
