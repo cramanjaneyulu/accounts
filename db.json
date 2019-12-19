@@ -3,31 +3,37 @@
 		"name": "IRA",
 		"accId": "5200",
 		"cash": "5763.36",
-                "todaysChange": "-0.08% / $8,916.69"
+		"changePercentage": "-0.08%",
+                "todaysChangePrice": "$8,916.69"
 	}, {
 		"name": "AAA",
 		"accId": "3810",		
   		"cash": "10050054.07",
-  		"todaysChange": "+0.08% / $8,916.69"
+		"changePercentage": "+0.08%",
+                "todaysChangePrice": "$8,916.69"
 	}, {
 		"name": "REG",
 		"accId": "2019",
 		"cash": "13465679.69",
-  		"todaysChange": "0.00%/ $0.00"
+		"changePercentage": "0.00%",
+                "todaysChangePrice": "$0.00"
 	}, {
 		"name": "AAA",
 		"accId": "1812",
 		"cash": "2010926.10",
-  		"todaysChange": "+0.21% / $38,881.63"
+		changePercentage": "+0.21%",
+                "todaysChangePrice": "$38,881.63"
 	}, {
 		"name": "IRA",
 		"accId": "0146",
 		"cash": "15884302.39",
-  		"todaysChange": "+0.03% / $7,430.83"
+		changePercentage": "+0.03%",
+                "todaysChangePrice": "$7,430.83"
 	}, {
 		"name": "AAA",
 		"accId": "0029",
 		"cash": "39160334.42",
-  		"todaysChange": "-0.07% / $31,435.87"
+		"changePercentage": "-0.07%",
+                "todaysChangePrice": "$31,435.87"
 	}]
 }
